@@ -1,0 +1,12 @@
+{
+  "Author": "Nightshade System",
+  "Name": "Minimal Plugin Template",
+  "Punchline": "The simplest possible base to start writing code.",
+  "Description": "The smallest possible valid XIVLauncher plugin.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ]
+}
